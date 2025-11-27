@@ -32,7 +32,7 @@ export const siteConfig = {
 };
 
 export const navLinks = [
-  { href: '/#products', label: 'Products' },
+  { href: '/products', label: 'Products' },
   { href: '/who-we-serve', label: 'Who We Serve' },
   { href: '/about', label: 'About Us' },
   { href: '/knowledge-center', label: 'Knowledge Center' },
